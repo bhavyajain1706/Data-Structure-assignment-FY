@@ -1,14 +1,29 @@
 # Data-Structure-assignment-FY
 
-Assignment 1:
-- part 1
-- part 2
-- part 3
-- part 4
+assignment-1
 
 
-Assignment 2:
-- part 1
-- part 2
-- part 3
-- part 4
+1 Smart Library Book Management System
+
+2 part-1 store and search book ids
+
+3 part-2 search for a book
+
+4 part-3 sort book ids
+
+5 part-4 simple library
+
+
+assignment-2
+
+1 Student Performance and Ranking Management System
+
+2 part-1 store and display roll no.
+
+
+3 part-2 search for roll no.
+
+4 part-3 arrange roll no.
+
+
+5 part-4 simple student management system
